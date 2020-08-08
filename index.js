@@ -136,6 +136,7 @@ client.on('message', message => {
   .setTimestamp()
 
  .addField("۩***⦁⦓ أوامر العامه  ⦔⦁***۩",' ‎ ')
+ .addField("✽- **!credits ↠  『 اوامر الكريديس المعروفة 』**",' ‎ ')
  .addField("✽- **!user ↠  『 يعرض معلومات انشاء حسابك 』**",' ‎ ')
  .addField("✽- **!server ↠  『 يعرض معلومات السيرفر 』**",' ‎ ')
  .addField("✽- **!short <link> ↠  『 اختصار روابط 』**",' ‎ ')
